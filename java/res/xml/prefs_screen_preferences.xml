@@ -48,6 +48,6 @@
     <CheckBoxPreference
         android:key="pref_voice_input_key"
         android:title="@string/voice_input"
-        android:defaultValue="true"
+        android:defaultValue="false"
         android:persistent="true" />
 </PreferenceScreen>
